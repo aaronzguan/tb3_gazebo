@@ -7,7 +7,7 @@
 * **ROS Kinetic + Gazebo**
 * tb3_description (URDF file of turtlebot 3)
 * _Joy Package (optional)_
-* _RQT (optional)_
+* _rqt (optional)_
 
 ## Installation
 
